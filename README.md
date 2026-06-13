@@ -3,7 +3,6 @@
 A modern and responsive blog website built using HTML and CSS.
 
 ## Features
-
 - Responsive Design
 - Modern UI
 - Blog Cards
@@ -12,12 +11,10 @@ A modern and responsive blog website built using HTML and CSS.
 - Footer
 
 ## Technologies
-
 - HTML5
 - CSS3
 
 ## Project Structure
-
 blog-website/
 ├── index.html
 ├── css/
@@ -40,6 +37,7 @@ This is a basic HTML project created for learning and practice purposes. It demo
 
 ## Technologies Used
 - HTML5
+
 
 
 ## How to Run
