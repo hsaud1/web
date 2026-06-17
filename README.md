@@ -26,8 +26,7 @@ blog-website/
 └── README.md
 
 ## Author
-
-Hari Saud
+Ram Shah
 # Simple HTML Project
 
 ## Description
