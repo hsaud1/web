@@ -26,8 +26,7 @@ blog-website/
 └── README.md
 
 ## Author
-
-Hari Saud
+Ram Shah
 # Simple HTML Project
 
 ## Description
@@ -49,7 +48,7 @@ This is a basic HTML project created for learning and practice purposes. It demo
 
 ## Author
 
-Hari Saud
+Ram Shah
 
 ## License
 
