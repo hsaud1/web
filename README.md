@@ -1,9 +1,8 @@
 # BlogSpace
 
-A modern and responsive blog website is built by using HTML and CSS.
+
 
 ## Features
-
 - Responsive Design
 - Modern UI
 - Blog Cards
@@ -12,12 +11,10 @@ A modern and responsive blog website is built by using HTML and CSS.
 - Footer
 
 ## Technologies
-
 - HTML5
 - CSS3
 
 ## Project Structure
-
 blog-website/
 ├── index.html
 ├── css/
@@ -26,8 +23,7 @@ blog-website/
 └── README.md
 
 ## Author
-
-Hari Saud
+Ram Shah
 # Simple HTML Project
 
 ## Description
@@ -42,6 +38,7 @@ This is a basic HTML project created for learning and practice purposes. It demo
 - HTML5
 
 
+
 ## How to Run
 
 1. Download or clone the repository.
@@ -49,7 +46,7 @@ This is a basic HTML project created for learning and practice purposes. It demo
 
 ## Author
 
-Hari Saud
+Ram Shah
 
 ## License
 
