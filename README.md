@@ -1,6 +1,6 @@
 # BlogSpace
 
-A modern and responsive of the blog website built using HTML and CSS.
+
 
 ## Features
 - Responsive Design
