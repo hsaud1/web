@@ -1,7 +1,5 @@
 # BlogSpace
 
-
-
 ## Features
 - Responsive Design
 - Modern UI
